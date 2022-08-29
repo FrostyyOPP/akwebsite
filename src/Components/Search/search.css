@@ -1,0 +1,22 @@
+.search-head{
+    text-align: center;
+    font-size: 50px;
+}
+.alert{
+    padding-top: 120px;
+    height: 430px;
+}
+.trending{
+    padding-left: 25%;
+}
+.span-1{
+    margin-left: 5px;
+}
+span{
+    color: black;
+    margin-right: 5px;
+    cursor: pointer;
+}
+span:hover{
+    color: #e83283;
+}
